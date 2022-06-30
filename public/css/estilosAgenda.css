@@ -1,0 +1,23 @@
+.container{
+    align-items: center;
+    justify-content: center;
+}
+.scrollPanel{
+    position: absolute;
+    top: 10rem; left: 10rem;
+    background-color: antiquewhite;
+    height:60rem ;
+    width: 60rem;
+    overflow: scroll;
+    display: inline-block;
+
+}
+button{
+    margin: 0;
+    height:30px ;
+    width: 120px;
+    border: none;
+    background-color: rgb(51, 146, 235);
+    color: white;
+    border-radius: 10px;
+}
